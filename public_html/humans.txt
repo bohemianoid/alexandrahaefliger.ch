@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Simon Roth -- Web Development -- atelier@simonroth.ch
+    Simon Roth -- Development -- atelier@simonroth.ch
 
 # THANKS
 
