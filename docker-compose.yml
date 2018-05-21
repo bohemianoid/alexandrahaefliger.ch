@@ -1,0 +1,9 @@
+version: "3"
+services:
+  php:
+    image: php:7.0
+    ports:
+      - "80:80"
+    volumes:
+      - .:/php
+    command: php -S 0.0.0.0:80 -t /php/public_html
